@@ -34,7 +34,7 @@ Bienvenido a mi espacio en GitHub. Soy estudiante de Ingeniería en Computación
 ### 📈 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsyayo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soy-yayo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsyayo&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </div>
 
