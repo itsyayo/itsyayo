@@ -8,7 +8,6 @@ Bienvenido a mi espacio en GitHub. Soy estudiante de Ingeniería en Computación
 - Actualmente construyendo **MyPos** (un SaaS de Punto de Venta) y desarrollando **gymtracker-pro** (un proyecto escolar).
 - Entusiasta de Linux. Si no estoy tirando código, probablemente estoy ajustando mi setup de **Arch Linux + Hyprland**.
 - Trabajado mi inglés a base de libros y sistemas en Notion.
-- En mi tiempo libre me encuentras explorando Night City en Cyberpunk 2077 o rankeando en Apex y Fortnite.
 
 ### Mi Stack Tecnológico
 
